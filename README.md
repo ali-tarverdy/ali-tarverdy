@@ -4,5 +4,5 @@
 - Python
 - Linux
 - Devops Tools
-💞️ I’m looking to collaborate on projects specially python language 
+- 💞️ I’m looking to collaborate on projects specially python language 
 
